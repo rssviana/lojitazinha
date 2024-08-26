@@ -52,3 +52,44 @@ export default tseslint.config({
   },
 })
 ```
+
+# API
+
+Utilizamos o json-server para criar uma api local, além disso se quiser criar items diferentes, sinta-se a vontade para manipular o código de 'generateItems.js'. Precisamos das seguintes dependencias para rodar: 
+
+Caso queira rodar o generateItems, precisamos ter o uuid instalado;
+
+```shell
+ $: cd api/
+```
+
+```shell
+ $: npm install json-server --save-dev
+ $: npm install uuid --save-dev
+```
+
+Para rodar:
+
+```shell
+ $: node generateItems.js
+```
+
+Por consequencia, teremos de saída um arquivo chamado 'items.json', copie o array que esta dentro dele e cole em db.json dentro de uma propriedade
+
+Agora para rodar-mos a api de fato, temos que ter o json-server, para isso temos que rodar os seguintes comandos:
+
+```shell
+ $: npm install 
+```
+
+```shell
+ $: npm start
+```
+
+Para testar utilize o seguinte comando:
+
+```shell
+
+curl --location 'http://localhost:9000/products?_page=1&_limit=10'
+
+```

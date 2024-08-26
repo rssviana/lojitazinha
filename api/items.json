@@ -1,0 +1,2702 @@
+[
+    {
+        "id": "80740af7-1d22-4965-8e5e-2a377d74b8e1",
+        "name": "Cool Mug",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 2057,
+        "created_at": "2024-08-07"
+    },
+    {
+        "id": "ded438ec-a93a-472b-9cc6-37b7acf70d9a",
+        "name": "Cool Mug",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 1873,
+        "created_at": "2024-08-19"
+    },
+    {
+        "id": "ba6d871a-d674-45b4-ac72-a8234df2280d",
+        "name": "Running Shoes",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 4946,
+        "created_at": "2023-12-20"
+    },
+    {
+        "id": "07dfaa7b-293f-464a-9be6-08dc26ac0201",
+        "name": "Graphic T-Shirt",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 5976,
+        "created_at": "2024-02-08"
+    },
+    {
+        "id": "fc5ac8fd-f535-4266-b289-81ec3f93e7c2",
+        "name": "Cool Mug",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 1485,
+        "created_at": "2023-11-14"
+    },
+    {
+        "id": "36aa118a-096c-4af6-835a-fcd57b21f4ce",
+        "name": "Graphic T-Shirt",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 5304,
+        "created_at": "2023-10-25"
+    },
+    {
+        "id": "8f567b19-00cc-4822-841f-1f3b97e0c9a0",
+        "name": "Cool Mug",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 3953,
+        "created_at": "2024-04-15"
+    },
+    {
+        "id": "6c93925e-5bb7-4d31-a292-485a9a8e028c",
+        "name": "Graphic T-Shirt",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 2928,
+        "created_at": "2024-07-19"
+    },
+    {
+        "id": "fa38d027-9a8f-4e3f-b92b-6fa3590cf952",
+        "name": "Casual Sneakers",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 4565,
+        "created_at": "2023-11-22"
+    },
+    {
+        "id": "8488cccb-6de5-4468-844d-e8de74a45de4",
+        "name": "Running Shoes",
+        "description": "Keep your drinks hot or cold on the go.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 2519,
+        "created_at": "2024-08-05"
+    },
+    {
+        "id": "984d3db1-cb5f-49a3-8e51-0633b7b6c13a",
+        "name": "Travel Mug",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 2803,
+        "created_at": "2024-05-24"
+    },
+    {
+        "id": "dddf1212-5b85-4837-b5af-183e141b435b",
+        "name": "Vintage T-Shirt",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 3542,
+        "created_at": "2024-03-10"
+    },
+    {
+        "id": "5669e3f6-cb5e-4220-bc5b-9e48d0841aee",
+        "name": "Travel Mug",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 5061,
+        "created_at": "2024-07-28"
+    },
+    {
+        "id": "4719bb64-f893-4090-9021-958e38753714",
+        "name": "Graphic T-Shirt",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 1951,
+        "created_at": "2024-05-20"
+    },
+    {
+        "id": "69d6960c-93f2-4368-9072-60bfe6134eba",
+        "name": "Cool Mug",
+        "description": "Keep your drinks hot or cold on the go.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 3710,
+        "created_at": "2024-04-29"
+    },
+    {
+        "id": "24aec896-c5f6-4b03-b473-376f0367d26a",
+        "name": "Casual Sneakers",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 4775,
+        "created_at": "2024-06-07"
+    },
+    {
+        "id": "2cf88622-62e4-48ae-9fd6-d65f9ab8cb70",
+        "name": "Vintage T-Shirt",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 5892,
+        "created_at": "2024-04-17"
+    },
+    {
+        "id": "8e6b63bf-0291-4cfa-b890-26e52f8ae70d",
+        "name": "Casual Sneakers",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 4051,
+        "created_at": "2024-03-10"
+    },
+    {
+        "id": "7f492090-9bd5-450e-8ce9-9400f2ff4a57",
+        "name": "Running Shoes",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 3229,
+        "created_at": "2024-01-24"
+    },
+    {
+        "id": "69b8d6f7-9258-4ca4-98cb-b40156a9a955",
+        "name": "Casual Sneakers",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 1558,
+        "created_at": "2024-06-19"
+    },
+    {
+        "id": "0febd19e-d210-42c5-9539-5e9f5ec72dea",
+        "name": "Graphic T-Shirt",
+        "description": "Keep your drinks hot or cold on the go.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 4901,
+        "created_at": "2024-03-15"
+    },
+    {
+        "id": "9ae5ca97-d97b-4a07-a58e-cfa1e16f2f4b",
+        "name": "Running Shoes",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 5060,
+        "created_at": "2023-10-11"
+    },
+    {
+        "id": "7a284d38-400c-4eb8-926c-0a371aa67a40",
+        "name": "Graphic T-Shirt",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 5362,
+        "created_at": "2024-06-17"
+    },
+    {
+        "id": "46acd6e8-af0f-4ff8-9262-3e7f020b2824",
+        "name": "Travel Mug",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 5357,
+        "created_at": "2023-11-11"
+    },
+    {
+        "id": "cb2f85bb-25da-403a-b760-865d4bbab122",
+        "name": "Cool Mug",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 4192,
+        "created_at": "2023-12-18"
+    },
+    {
+        "id": "db85d0f4-51d7-44fd-acdd-6ffda596eddb",
+        "name": "Casual Sneakers",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 4033,
+        "created_at": "2024-06-30"
+    },
+    {
+        "id": "c330ec5b-4549-4ec8-b4e1-af8afd4af6c2",
+        "name": "Graphic T-Shirt",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 4089,
+        "created_at": "2024-06-23"
+    },
+    {
+        "id": "5cddc683-f661-4cd6-98c1-c0e58eabe359",
+        "name": "Cool Mug",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 2905,
+        "created_at": "2024-04-27"
+    },
+    {
+        "id": "8a5b2de6-a79b-4af6-9f2a-72857d2ce7a7",
+        "name": "Vintage T-Shirt",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 1349,
+        "created_at": "2024-03-25"
+    },
+    {
+        "id": "15ccdae6-90c1-4ee8-b12a-1a59c0051d75",
+        "name": "Casual Sneakers",
+        "description": "Keep your drinks hot or cold on the go.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 5221,
+        "created_at": "2024-06-19"
+    },
+    {
+        "id": "ef583429-3f67-4364-8d96-78cea73c0c8f",
+        "name": "Graphic T-Shirt",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 4805,
+        "created_at": "2024-03-04"
+    },
+    {
+        "id": "cae60138-86b4-4147-962a-ed88bb5f6cb2",
+        "name": "Graphic T-Shirt",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 2003,
+        "created_at": "2023-10-18"
+    },
+    {
+        "id": "b6561604-e831-4bc5-99c1-7db3c16a63dc",
+        "name": "Cool Mug",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 1347,
+        "created_at": "2024-07-26"
+    },
+    {
+        "id": "48d70716-7b0a-4ace-9f3f-c9adb6819430",
+        "name": "Running Shoes",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 2585,
+        "created_at": "2024-06-29"
+    },
+    {
+        "id": "aac6f38d-60c1-41f7-bbba-9ab7346ac875",
+        "name": "Casual Sneakers",
+        "description": "Keep your drinks hot or cold on the go.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 1958,
+        "created_at": "2023-12-25"
+    },
+    {
+        "id": "6345326b-5d20-48f9-8b41-b87860b4a509",
+        "name": "Casual Sneakers",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 1813,
+        "created_at": "2023-09-19"
+    },
+    {
+        "id": "53f59ddd-9b69-4c94-a0cb-9b6f55aaa0fe",
+        "name": "Graphic T-Shirt",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 3568,
+        "created_at": "2024-03-07"
+    },
+    {
+        "id": "ca4450ec-8558-465e-8e4d-c277b660d5b8",
+        "name": "Cool Mug",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 4699,
+        "created_at": "2023-12-27"
+    },
+    {
+        "id": "00698ba6-a25e-4cd8-a415-53252bc17707",
+        "name": "Running Shoes",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 4206,
+        "created_at": "2023-11-22"
+    },
+    {
+        "id": "dd50ef2e-fac2-4f0c-a2de-3b7c2aa77885",
+        "name": "Travel Mug",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 2484,
+        "created_at": "2024-08-24"
+    },
+    {
+        "id": "e004c71d-ca41-4c00-ad52-a3095d408409",
+        "name": "Cool Mug",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 2846,
+        "created_at": "2023-09-28"
+    },
+    {
+        "id": "e2652144-b18e-4062-805d-ba799fcf29df",
+        "name": "Running Shoes",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 4212,
+        "created_at": "2024-05-30"
+    },
+    {
+        "id": "c69bc2a0-ae8f-4475-a0e3-7dd62b366207",
+        "name": "Vintage T-Shirt",
+        "description": "Keep your drinks hot or cold on the go.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 5159,
+        "created_at": "2023-10-28"
+    },
+    {
+        "id": "f0ac30f1-e8ce-41e8-9e06-d2d0728bb330",
+        "name": "Travel Mug",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 2992,
+        "created_at": "2024-08-21"
+    },
+    {
+        "id": "4b5e74dd-b9eb-4bfd-8c6d-819f0353b176",
+        "name": "Travel Mug",
+        "description": "Keep your drinks hot or cold on the go.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 3083,
+        "created_at": "2023-10-05"
+    },
+    {
+        "id": "841b887d-0b0b-4cd1-adf2-62f3362be0d3",
+        "name": "Cool Mug",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 1298,
+        "created_at": "2024-08-26"
+    },
+    {
+        "id": "16af91d9-d209-48a1-9565-83dc72a1b185",
+        "name": "Graphic T-Shirt",
+        "description": "Keep your drinks hot or cold on the go.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 4017,
+        "created_at": "2023-09-07"
+    },
+    {
+        "id": "87e73169-4dd4-4b50-b2d9-a089a028472c",
+        "name": "Travel Mug",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 3118,
+        "created_at": "2024-03-28"
+    },
+    {
+        "id": "fe655fc3-9eed-4b9e-8610-b2a3640542cf",
+        "name": "Graphic T-Shirt",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 5749,
+        "created_at": "2024-03-01"
+    },
+    {
+        "id": "68bdfa03-b4ef-484b-965e-64a0bd7c6552",
+        "name": "Vintage T-Shirt",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 1038,
+        "created_at": "2024-01-13"
+    },
+    {
+        "id": "c687abf9-c619-4848-b4a6-fa2f41179c40",
+        "name": "Graphic T-Shirt",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 3314,
+        "created_at": "2024-07-28"
+    },
+    {
+        "id": "e69a44bd-4ecd-4329-9950-3aaf072532ad",
+        "name": "Travel Mug",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 4412,
+        "created_at": "2023-10-23"
+    },
+    {
+        "id": "00256301-5dc6-4723-a002-b1f905e04159",
+        "name": "Casual Sneakers",
+        "description": "Keep your drinks hot or cold on the go.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 1248,
+        "created_at": "2023-12-31"
+    },
+    {
+        "id": "81f2ceac-9ebb-4977-974e-e212f5324ce6",
+        "name": "Travel Mug",
+        "description": "Keep your drinks hot or cold on the go.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 5904,
+        "created_at": "2024-07-05"
+    },
+    {
+        "id": "19b536eb-fd03-4899-a961-da4621bd10e7",
+        "name": "Graphic T-Shirt",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 1384,
+        "created_at": "2023-09-06"
+    },
+    {
+        "id": "f068b005-1269-44a5-9a4f-70cde75d5350",
+        "name": "Running Shoes",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 5429,
+        "created_at": "2023-12-26"
+    },
+    {
+        "id": "3c9ddee9-a145-4d66-94fd-b3ebebb1bd42",
+        "name": "Travel Mug",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 4457,
+        "created_at": "2023-11-06"
+    },
+    {
+        "id": "a3c9c761-a991-41c7-a22a-1fc18a807469",
+        "name": "Vintage T-Shirt",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 3287,
+        "created_at": "2024-05-14"
+    },
+    {
+        "id": "23f7c3e4-8001-401a-bbb3-047368cd7a89",
+        "name": "Casual Sneakers",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 3971,
+        "created_at": "2024-01-25"
+    },
+    {
+        "id": "3bf8fe6c-1521-4d10-965e-5f788bb13226",
+        "name": "Vintage T-Shirt",
+        "description": "Keep your drinks hot or cold on the go.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 5710,
+        "created_at": "2024-02-14"
+    },
+    {
+        "id": "ebbb0cdc-193d-4cbd-ad43-59c10ef3b142",
+        "name": "Casual Sneakers",
+        "description": "Keep your drinks hot or cold on the go.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 5888,
+        "created_at": "2024-07-08"
+    },
+    {
+        "id": "eb9fa57c-f896-4d1d-b182-1f8131f546d7",
+        "name": "Running Shoes",
+        "description": "Keep your drinks hot or cold on the go.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 4849,
+        "created_at": "2024-02-14"
+    },
+    {
+        "id": "6d06fc9c-9cbc-4e62-803d-74019501fffa",
+        "name": "Cool Mug",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 3003,
+        "created_at": "2024-04-20"
+    },
+    {
+        "id": "30ef71a6-6f71-4683-8960-8c2e76b79d89",
+        "name": "Casual Sneakers",
+        "description": "Keep your drinks hot or cold on the go.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 1174,
+        "created_at": "2024-01-03"
+    },
+    {
+        "id": "c40bf777-2000-434b-8590-badb45f6994d",
+        "name": "Travel Mug",
+        "description": "Keep your drinks hot or cold on the go.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 2280,
+        "created_at": "2024-03-10"
+    },
+    {
+        "id": "381fa06b-7a3b-4fb4-85c7-52b3d90b04fb",
+        "name": "Running Shoes",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 1840,
+        "created_at": "2024-05-29"
+    },
+    {
+        "id": "fa2d5b2e-ff8b-43a6-a7b9-516617a8bbaa",
+        "name": "Cool Mug",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 3371,
+        "created_at": "2024-06-08"
+    },
+    {
+        "id": "fd373999-1cc4-4190-9c16-9a519ab36d14",
+        "name": "Cool Mug",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 4615,
+        "created_at": "2024-01-16"
+    },
+    {
+        "id": "defafe58-b34f-4c9e-8515-e8c6da5757ca",
+        "name": "Casual Sneakers",
+        "description": "Keep your drinks hot or cold on the go.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 4692,
+        "created_at": "2024-06-08"
+    },
+    {
+        "id": "13f8759e-3183-4cac-9f0b-8f207722efc1",
+        "name": "Cool Mug",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 2241,
+        "created_at": "2023-09-17"
+    },
+    {
+        "id": "d6a2a89d-09d8-4ed8-9198-9d2f1221c5ac",
+        "name": "Vintage T-Shirt",
+        "description": "Keep your drinks hot or cold on the go.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 1660,
+        "created_at": "2023-11-08"
+    },
+    {
+        "id": "5ea82e00-486f-413b-84dd-d999ca26acd8",
+        "name": "Casual Sneakers",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 1073,
+        "created_at": "2023-11-01"
+    },
+    {
+        "id": "e3b7416e-28ea-4af7-a2f5-ed4af22d8f43",
+        "name": "Running Shoes",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 4131,
+        "created_at": "2024-02-19"
+    },
+    {
+        "id": "76ffcef6-af4e-4462-b713-53dfffb100e3",
+        "name": "Travel Mug",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 5450,
+        "created_at": "2024-06-04"
+    },
+    {
+        "id": "93885757-639d-448f-b6a9-d54926c0fabd",
+        "name": "Graphic T-Shirt",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 5205,
+        "created_at": "2024-08-13"
+    },
+    {
+        "id": "883c8a24-e714-47f5-99f2-9f455d887d3f",
+        "name": "Travel Mug",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 2608,
+        "created_at": "2024-04-22"
+    },
+    {
+        "id": "dd17293e-37f5-4869-810e-971db2761b67",
+        "name": "Travel Mug",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 2328,
+        "created_at": "2024-01-26"
+    },
+    {
+        "id": "33bb8d4b-0a38-4667-87e0-ae787aa9fcd9",
+        "name": "Vintage T-Shirt",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 2678,
+        "created_at": "2023-12-25"
+    },
+    {
+        "id": "2cb203be-3d7f-4244-a587-ccda0d510388",
+        "name": "Casual Sneakers",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 4027,
+        "created_at": "2023-11-18"
+    },
+    {
+        "id": "0b8ac662-7e6c-46e2-bb7e-06467289b5c1",
+        "name": "Running Shoes",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 3884,
+        "created_at": "2024-02-29"
+    },
+    {
+        "id": "79359285-dd90-41e2-84d1-9f19c12f9787",
+        "name": "Casual Sneakers",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 1140,
+        "created_at": "2023-11-11"
+    },
+    {
+        "id": "8e2a7184-bc3d-43e2-ac56-e3e48d6897b7",
+        "name": "Travel Mug",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 2655,
+        "created_at": "2023-09-16"
+    },
+    {
+        "id": "3a4f39e2-67ae-439e-adce-7c958851bec6",
+        "name": "Cool Mug",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 5339,
+        "created_at": "2024-04-16"
+    },
+    {
+        "id": "76564b92-4976-42ae-a6d8-4f77cde114e5",
+        "name": "Casual Sneakers",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 3204,
+        "created_at": "2023-12-17"
+    },
+    {
+        "id": "0c746b0d-3c7c-41e9-a5a1-c7a03718fb6b",
+        "name": "Graphic T-Shirt",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 4492,
+        "created_at": "2023-08-27"
+    },
+    {
+        "id": "781ef054-7742-4491-8ce0-5f23a2339f27",
+        "name": "Cool Mug",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 4123,
+        "created_at": "2023-10-31"
+    },
+    {
+        "id": "75b94294-a1b2-4c49-ab3a-974e045fd82e",
+        "name": "Cool Mug",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 4557,
+        "created_at": "2024-04-11"
+    },
+    {
+        "id": "b97dd496-9778-44aa-8bbc-d1afc33e596c",
+        "name": "Casual Sneakers",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 4187,
+        "created_at": "2023-09-24"
+    },
+    {
+        "id": "5977ba27-b55e-479f-8ccf-ab964ceced7f",
+        "name": "Vintage T-Shirt",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 3902,
+        "created_at": "2024-04-13"
+    },
+    {
+        "id": "c1a4a239-76de-40fe-b45c-3d5aeddafa60",
+        "name": "Vintage T-Shirt",
+        "description": "Keep your drinks hot or cold on the go.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 4462,
+        "created_at": "2023-12-09"
+    },
+    {
+        "id": "eecd96b3-9252-441d-af68-98ce82b82764",
+        "name": "Graphic T-Shirt",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 4371,
+        "created_at": "2023-10-12"
+    },
+    {
+        "id": "ea600b96-0bb1-4826-bcc7-3d67c21aa46d",
+        "name": "Travel Mug",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 3132,
+        "created_at": "2023-12-01"
+    },
+    {
+        "id": "59241f11-add8-4e7d-b8dc-7573d1fe4a20",
+        "name": "Vintage T-Shirt",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 5772,
+        "created_at": "2023-11-18"
+    },
+    {
+        "id": "513a8e4c-ead1-4e1f-b949-4ac46d7c0f23",
+        "name": "Graphic T-Shirt",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 4344,
+        "created_at": "2024-02-04"
+    },
+    {
+        "id": "208d0539-68d8-438f-a024-586b8e11e880",
+        "name": "Cool Mug",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 2628,
+        "created_at": "2023-09-03"
+    },
+    {
+        "id": "d9224a4e-9a78-410a-91cd-8cb0da30a0bd",
+        "name": "Vintage T-Shirt",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 1892,
+        "created_at": "2023-11-26"
+    },
+    {
+        "id": "af7dfe2c-c852-4acb-b782-650c2180c9da",
+        "name": "Vintage T-Shirt",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 2560,
+        "created_at": "2024-07-16"
+    },
+    {
+        "id": "0036b435-15e2-4f11-83ff-8f8fb69c48bc",
+        "name": "Cool Mug",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 1592,
+        "created_at": "2024-01-01"
+    },
+    {
+        "id": "68e0f14b-5ad2-4c60-b447-52be448e0abc",
+        "name": "Vintage T-Shirt",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 4640,
+        "created_at": "2024-05-20"
+    },
+    {
+        "id": "4755c996-aa28-43cc-8ded-83c2d587bf24",
+        "name": "Vintage T-Shirt",
+        "description": "Keep your drinks hot or cold on the go.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 2154,
+        "created_at": "2023-10-09"
+    },
+    {
+        "id": "f6657c8c-22f1-4512-b45f-81f26dfdfa0a",
+        "name": "Casual Sneakers",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 2504,
+        "created_at": "2024-07-10"
+    },
+    {
+        "id": "d22f1a52-5a50-4823-a3ce-768cfc294411",
+        "name": "Graphic T-Shirt",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 1657,
+        "created_at": "2024-04-11"
+    },
+    {
+        "id": "7ef123ba-de39-4d30-92bf-c45e811e5ee7",
+        "name": "Vintage T-Shirt",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 4150,
+        "created_at": "2024-06-11"
+    },
+    {
+        "id": "6de9bc6b-e581-438b-b1f8-54b908884497",
+        "name": "Running Shoes",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 3227,
+        "created_at": "2023-09-21"
+    },
+    {
+        "id": "c20ae989-b090-49e6-ba41-b74e739d1897",
+        "name": "Casual Sneakers",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 2220,
+        "created_at": "2024-06-05"
+    },
+    {
+        "id": "908219f2-1536-4031-9c1d-0d04fe00b4e5",
+        "name": "Graphic T-Shirt",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 1898,
+        "created_at": "2023-09-18"
+    },
+    {
+        "id": "23a370e1-7909-4f9a-8314-668858aa2e84",
+        "name": "Vintage T-Shirt",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 4274,
+        "created_at": "2024-08-03"
+    },
+    {
+        "id": "248b6ffd-187a-42ea-befa-c5ba1ec4482c",
+        "name": "Travel Mug",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 2801,
+        "created_at": "2024-06-26"
+    },
+    {
+        "id": "d0697332-01d7-4201-af58-1febf0981036",
+        "name": "Vintage T-Shirt",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 3912,
+        "created_at": "2023-11-02"
+    },
+    {
+        "id": "3d4bf11e-7bff-4963-ba50-0ab31fee3bf0",
+        "name": "Casual Sneakers",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 4047,
+        "created_at": "2024-04-30"
+    },
+    {
+        "id": "47113023-f613-4eaa-bab5-2027ee178be9",
+        "name": "Cool Mug",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 1941,
+        "created_at": "2023-10-31"
+    },
+    {
+        "id": "77170ba1-5cca-4c86-99d9-da8ef636a0bb",
+        "name": "Casual Sneakers",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 3351,
+        "created_at": "2024-02-08"
+    },
+    {
+        "id": "db929e62-4356-4f3d-a8fc-fdf8541d8e54",
+        "name": "Casual Sneakers",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 5554,
+        "created_at": "2024-03-12"
+    },
+    {
+        "id": "ebc9ed70-fe58-4b7f-888f-f0f056316469",
+        "name": "Graphic T-Shirt",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 1796,
+        "created_at": "2023-10-06"
+    },
+    {
+        "id": "5abcca0b-0efb-4d49-999b-e6281cfee884",
+        "name": "Casual Sneakers",
+        "description": "Keep your drinks hot or cold on the go.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 5354,
+        "created_at": "2023-11-09"
+    },
+    {
+        "id": "6eecd63e-b9f9-46cb-ad10-f2fe9809dda1",
+        "name": "Casual Sneakers",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 4232,
+        "created_at": "2023-11-22"
+    },
+    {
+        "id": "5db1256f-95a7-4335-9b91-ee9c48573174",
+        "name": "Casual Sneakers",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 5611,
+        "created_at": "2024-04-24"
+    },
+    {
+        "id": "114dd889-4126-4fe6-a5fd-80bf9d1bf3fa",
+        "name": "Graphic T-Shirt",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 1986,
+        "created_at": "2024-01-04"
+    },
+    {
+        "id": "b4f88513-40b5-4cad-9d0d-f9e78ff567a4",
+        "name": "Travel Mug",
+        "description": "Keep your drinks hot or cold on the go.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 3573,
+        "created_at": "2023-09-21"
+    },
+    {
+        "id": "564e1326-35da-4c2b-a92c-b59e31bbe71c",
+        "name": "Vintage T-Shirt",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 1218,
+        "created_at": "2024-03-14"
+    },
+    {
+        "id": "3256dc2e-763a-497f-8254-f64a5f4e776e",
+        "name": "Running Shoes",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 4798,
+        "created_at": "2024-03-25"
+    },
+    {
+        "id": "c117a0d6-b347-4568-9ba6-5f30ac6a12dc",
+        "name": "Cool Mug",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 5840,
+        "created_at": "2024-05-19"
+    },
+    {
+        "id": "338a3106-11e2-42e3-8565-618ccf610b63",
+        "name": "Running Shoes",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 3386,
+        "created_at": "2023-12-27"
+    },
+    {
+        "id": "ea7472b2-c467-4a0f-9954-5afa9ebdb934",
+        "name": "Casual Sneakers",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 3205,
+        "created_at": "2024-03-19"
+    },
+    {
+        "id": "6f09ee65-f303-4b43-aad3-8ea18e7d4b67",
+        "name": "Cool Mug",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 4735,
+        "created_at": "2023-11-17"
+    },
+    {
+        "id": "c1197cf7-711a-4217-bf57-95e439f3be43",
+        "name": "Running Shoes",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 3791,
+        "created_at": "2024-03-17"
+    },
+    {
+        "id": "8759fa5b-1601-4e6a-bbb4-7c34cd4957d7",
+        "name": "Graphic T-Shirt",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 1152,
+        "created_at": "2024-04-23"
+    },
+    {
+        "id": "2c45c462-d766-4b01-894b-fa8be55640c0",
+        "name": "Cool Mug",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 1753,
+        "created_at": "2023-09-16"
+    },
+    {
+        "id": "583840b3-5a34-4720-a7d1-c7deefaadd31",
+        "name": "Graphic T-Shirt",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 3236,
+        "created_at": "2024-03-08"
+    },
+    {
+        "id": "d5cf1ecc-ad2d-42cb-8398-bd5788a1c4b8",
+        "name": "Casual Sneakers",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 3113,
+        "created_at": "2023-08-28"
+    },
+    {
+        "id": "d95a78bd-9d76-409d-9c29-2c3fbdde1461",
+        "name": "Travel Mug",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 2234,
+        "created_at": "2024-07-31"
+    },
+    {
+        "id": "f2778da3-670a-4413-8b2f-aca733701edf",
+        "name": "Vintage T-Shirt",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 3885,
+        "created_at": "2023-12-09"
+    },
+    {
+        "id": "7ef304b6-e1dc-4f78-8533-2ad360b964e5",
+        "name": "Graphic T-Shirt",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 3676,
+        "created_at": "2024-04-10"
+    },
+    {
+        "id": "398b34be-5996-4f70-a8bf-c55ebfc59c6e",
+        "name": "Running Shoes",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 3557,
+        "created_at": "2024-03-02"
+    },
+    {
+        "id": "85e4a7e1-9779-4f21-843a-694f35f47f8f",
+        "name": "Casual Sneakers",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 2075,
+        "created_at": "2023-09-05"
+    },
+    {
+        "id": "c71af613-c9a7-4a78-9307-5486a76ed412",
+        "name": "Vintage T-Shirt",
+        "description": "Keep your drinks hot or cold on the go.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 2558,
+        "created_at": "2023-09-08"
+    },
+    {
+        "id": "811ae662-93ec-4654-aa01-ffcecf216a3d",
+        "name": "Casual Sneakers",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 5143,
+        "created_at": "2024-04-19"
+    },
+    {
+        "id": "419fba04-56f9-4bae-a80b-376cb0408df3",
+        "name": "Running Shoes",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 5170,
+        "created_at": "2024-05-26"
+    },
+    {
+        "id": "61a05564-cce6-42ec-b2ec-359e0c65ae2f",
+        "name": "Vintage T-Shirt",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 3402,
+        "created_at": "2024-04-25"
+    },
+    {
+        "id": "39ba33ea-50e7-4bc2-9244-f020470d6127",
+        "name": "Casual Sneakers",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 5682,
+        "created_at": "2023-12-27"
+    },
+    {
+        "id": "ca784188-c560-4be5-b217-fde774154cc6",
+        "name": "Travel Mug",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 5675,
+        "created_at": "2024-04-14"
+    },
+    {
+        "id": "c47934c4-b0d1-405a-b6eb-3ff40452794a",
+        "name": "Vintage T-Shirt",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 5411,
+        "created_at": "2024-07-28"
+    },
+    {
+        "id": "6edb82e8-56f0-4ad2-858f-6e55a87a78a9",
+        "name": "Running Shoes",
+        "description": "Keep your drinks hot or cold on the go.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 1782,
+        "created_at": "2024-04-26"
+    },
+    {
+        "id": "33698fb1-def6-4b10-a84c-042bda2ff8c6",
+        "name": "Travel Mug",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 5584,
+        "created_at": "2023-11-21"
+    },
+    {
+        "id": "45c3a491-573a-4396-b428-ca4ec6d7ad32",
+        "name": "Travel Mug",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 4883,
+        "created_at": "2024-04-30"
+    },
+    {
+        "id": "d15611d1-342b-4822-9fd9-ef1c229d3e64",
+        "name": "Travel Mug",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 1465,
+        "created_at": "2023-12-02"
+    },
+    {
+        "id": "74a182c4-855c-4209-856f-94e7a27492b8",
+        "name": "Casual Sneakers",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 5685,
+        "created_at": "2024-07-13"
+    },
+    {
+        "id": "278e919b-85a1-4ee7-9df6-71c71f071680",
+        "name": "Casual Sneakers",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 5921,
+        "created_at": "2024-05-17"
+    },
+    {
+        "id": "9f8c8e67-93d9-4bed-81d5-9cd8512b252b",
+        "name": "Graphic T-Shirt",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 4949,
+        "created_at": "2023-11-22"
+    },
+    {
+        "id": "4dc33370-2ff3-4366-b3b9-472d352e831c",
+        "name": "Travel Mug",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 1876,
+        "created_at": "2024-07-17"
+    },
+    {
+        "id": "41fd0d02-243f-4c90-b2c1-356c141cd762",
+        "name": "Running Shoes",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 1741,
+        "created_at": "2023-09-19"
+    },
+    {
+        "id": "dc38baa1-e8e6-4bbe-b2f7-cab28f681c16",
+        "name": "Cool Mug",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 1982,
+        "created_at": "2024-03-25"
+    },
+    {
+        "id": "86846368-9951-4c71-863a-b2b4e65e4a85",
+        "name": "Casual Sneakers",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 2219,
+        "created_at": "2023-11-04"
+    },
+    {
+        "id": "ac358f7f-0260-4c74-b027-f3d63010370e",
+        "name": "Running Shoes",
+        "description": "Keep your drinks hot or cold on the go.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 5868,
+        "created_at": "2023-09-20"
+    },
+    {
+        "id": "e25336c6-1f95-47a6-8ebf-38119068f4b2",
+        "name": "Cool Mug",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 4952,
+        "created_at": "2024-05-22"
+    },
+    {
+        "id": "6ee62515-0cca-4e2d-9be5-51df1b813220",
+        "name": "Casual Sneakers",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 4426,
+        "created_at": "2024-08-04"
+    },
+    {
+        "id": "9320c863-4c40-4457-a3d3-31627463e040",
+        "name": "Running Shoes",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 4156,
+        "created_at": "2023-11-12"
+    },
+    {
+        "id": "010008c9-6cca-4c4f-aacc-c370b939f580",
+        "name": "Cool Mug",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 2783,
+        "created_at": "2024-07-21"
+    },
+    {
+        "id": "711e51e6-8c5a-421d-9776-13abd3429804",
+        "name": "Vintage T-Shirt",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 4723,
+        "created_at": "2024-06-05"
+    },
+    {
+        "id": "4cc57e76-f592-43a3-8051-405e30901953",
+        "name": "Running Shoes",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 5779,
+        "created_at": "2023-11-14"
+    },
+    {
+        "id": "8a6a4115-05cf-4440-a1a3-e64519d5ab88",
+        "name": "Running Shoes",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 1193,
+        "created_at": "2023-08-30"
+    },
+    {
+        "id": "1a29300d-5574-48de-aecd-ec44f8947343",
+        "name": "Casual Sneakers",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 1296,
+        "created_at": "2023-12-04"
+    },
+    {
+        "id": "da19c876-7f0b-4b8e-bcbf-882354b8cef9",
+        "name": "Running Shoes",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 5672,
+        "created_at": "2024-04-13"
+    },
+    {
+        "id": "6987a823-2669-4c76-842e-eb7798c9409b",
+        "name": "Cool Mug",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 5202,
+        "created_at": "2023-10-24"
+    },
+    {
+        "id": "35fbdec1-2c36-4475-923c-782c5f033985",
+        "name": "Travel Mug",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 5002,
+        "created_at": "2024-07-17"
+    },
+    {
+        "id": "bfbbe3ed-5d65-4e0d-8735-9e43016c3b4f",
+        "name": "Casual Sneakers",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 3471,
+        "created_at": "2024-01-03"
+    },
+    {
+        "id": "94c63a62-74e5-47a5-b465-f58a1a835f31",
+        "name": "Graphic T-Shirt",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 2345,
+        "created_at": "2024-06-07"
+    },
+    {
+        "id": "ff0327db-96e0-458a-8b9f-5dedba011e37",
+        "name": "Running Shoes",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 1461,
+        "created_at": "2023-12-19"
+    },
+    {
+        "id": "d8b915eb-18d4-45ed-8d38-9a86d76125e5",
+        "name": "Travel Mug",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 3297,
+        "created_at": "2024-04-06"
+    },
+    {
+        "id": "9004a44a-a04f-41e0-8f1f-444896a09461",
+        "name": "Casual Sneakers",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 4880,
+        "created_at": "2024-05-03"
+    },
+    {
+        "id": "ded6c806-82c6-40d6-a0a2-1827ce5064d8",
+        "name": "Cool Mug",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 2756,
+        "created_at": "2024-04-17"
+    },
+    {
+        "id": "2a6cc0a6-02a4-4137-ade8-db12295b58d7",
+        "name": "Casual Sneakers",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 2032,
+        "created_at": "2024-07-16"
+    },
+    {
+        "id": "38b5fcf2-5028-4c2a-bf84-6b9d943101c6",
+        "name": "Travel Mug",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 1549,
+        "created_at": "2024-03-05"
+    },
+    {
+        "id": "435a16e7-fdc4-44af-bf92-83f514e2fa60",
+        "name": "Graphic T-Shirt",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 3530,
+        "created_at": "2024-03-11"
+    },
+    {
+        "id": "e576fcb6-4775-4936-9b09-c8ee6046460c",
+        "name": "Vintage T-Shirt",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 3866,
+        "created_at": "2024-04-27"
+    },
+    {
+        "id": "52f3d39c-601c-4898-9950-f1d955f492a3",
+        "name": "Cool Mug",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 5951,
+        "created_at": "2024-07-12"
+    },
+    {
+        "id": "63914bef-48db-4864-9a11-52c0ab9cc870",
+        "name": "Casual Sneakers",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 1162,
+        "created_at": "2024-01-20"
+    },
+    {
+        "id": "345b66a6-fbf3-4d24-a898-524a8d58af5e",
+        "name": "Travel Mug",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 5726,
+        "created_at": "2024-05-20"
+    },
+    {
+        "id": "5d866fae-26ab-4c90-b640-0935e04d7c77",
+        "name": "Casual Sneakers",
+        "description": "Keep your drinks hot or cold on the go.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 4701,
+        "created_at": "2024-05-22"
+    },
+    {
+        "id": "52d7ccf4-ccd5-4e16-acd9-954fb1d1bd5d",
+        "name": "Casual Sneakers",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 5643,
+        "created_at": "2024-05-17"
+    },
+    {
+        "id": "1964b61a-d6e5-4cf7-8629-be533431f031",
+        "name": "Running Shoes",
+        "description": "Keep your drinks hot or cold on the go.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 2131,
+        "created_at": "2023-10-18"
+    },
+    {
+        "id": "11b65adc-1ec9-40e9-8c2d-c235a6fde2e4",
+        "name": "Travel Mug",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 3178,
+        "created_at": "2024-04-06"
+    },
+    {
+        "id": "0cb79fb1-d674-4a5b-8313-b62824d71456",
+        "name": "Casual Sneakers",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 3794,
+        "created_at": "2023-10-19"
+    },
+    {
+        "id": "bd8526a5-a5e1-4dca-bca4-d8171daab5dd",
+        "name": "Casual Sneakers",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 1372,
+        "created_at": "2023-10-16"
+    },
+    {
+        "id": "8f740d58-acb8-4808-9506-23717a4559d2",
+        "name": "Graphic T-Shirt",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 3028,
+        "created_at": "2023-12-12"
+    },
+    {
+        "id": "fef7ea70-a12e-4d0c-8dbd-312f14a142a0",
+        "name": "Casual Sneakers",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 1977,
+        "created_at": "2024-08-12"
+    },
+    {
+        "id": "df2180ca-4a0a-4116-abad-b6f5c01f7bec",
+        "name": "Vintage T-Shirt",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 2071,
+        "created_at": "2023-12-05"
+    },
+    {
+        "id": "05fc0c4d-8fee-4904-9b6a-bd08a614b90a",
+        "name": "Vintage T-Shirt",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 1073,
+        "created_at": "2023-12-17"
+    },
+    {
+        "id": "eb173828-5a57-4eaf-ab51-46ee612ec8f8",
+        "name": "Vintage T-Shirt",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 2855,
+        "created_at": "2024-07-21"
+    },
+    {
+        "id": "9751d352-e1bb-4c5a-817d-02ff89096fbd",
+        "name": "Graphic T-Shirt",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 5737,
+        "created_at": "2023-08-30"
+    },
+    {
+        "id": "892908a7-1702-484e-98b0-fd3dfbec5b52",
+        "name": "Running Shoes",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 4968,
+        "created_at": "2024-03-12"
+    },
+    {
+        "id": "fb2699c9-b021-4142-8d75-b6614e289b9d",
+        "name": "Casual Sneakers",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 5633,
+        "created_at": "2024-08-03"
+    },
+    {
+        "id": "8a082552-5992-4075-b34b-159cd21f5a9f",
+        "name": "Vintage T-Shirt",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 4835,
+        "created_at": "2024-07-29"
+    },
+    {
+        "id": "9c0267d7-9390-4916-9892-2f5317c84e13",
+        "name": "Casual Sneakers",
+        "description": "Keep your drinks hot or cold on the go.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 3017,
+        "created_at": "2024-05-28"
+    },
+    {
+        "id": "adcee603-2e47-45ae-9c2f-735d69a7d92b",
+        "name": "Running Shoes",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 1708,
+        "created_at": "2024-06-16"
+    },
+    {
+        "id": "48a60a7e-4761-481f-8a4a-61c8b0e50f89",
+        "name": "Graphic T-Shirt",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 3440,
+        "created_at": "2024-01-17"
+    },
+    {
+        "id": "4cf24ae9-fa3c-4897-a941-3ee122c95985",
+        "name": "Travel Mug",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 5278,
+        "created_at": "2024-04-21"
+    },
+    {
+        "id": "cb688773-d49d-4d72-881b-0f51e2129ef4",
+        "name": "Vintage T-Shirt",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 2155,
+        "created_at": "2024-06-22"
+    },
+    {
+        "id": "0e491cd6-b9bc-4f34-b2e7-66abe51a0968",
+        "name": "Vintage T-Shirt",
+        "description": "Keep your drinks hot or cold on the go.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 2135,
+        "created_at": "2024-04-09"
+    },
+    {
+        "id": "c112cd4f-492d-43fa-b81a-6ca682143018",
+        "name": "Cool Mug",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 2315,
+        "created_at": "2023-10-15"
+    },
+    {
+        "id": "d1dd9843-3250-42d3-90d0-be0d1d2b39e3",
+        "name": "Travel Mug",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 4872,
+        "created_at": "2023-09-04"
+    },
+    {
+        "id": "22d05b72-3423-4adf-a0ae-61017101b25d",
+        "name": "Travel Mug",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 1728,
+        "created_at": "2024-01-11"
+    },
+    {
+        "id": "cdcc431b-9f8a-4668-892c-87558f7b30bc",
+        "name": "Graphic T-Shirt",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 5168,
+        "created_at": "2024-07-16"
+    },
+    {
+        "id": "25fb4e68-04de-46e9-8c3d-1a29dac07220",
+        "name": "Vintage T-Shirt",
+        "description": "Keep your drinks hot or cold on the go.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 4197,
+        "created_at": "2023-12-06"
+    },
+    {
+        "id": "1a53c2dc-a0ef-49e1-8ede-4368d7723a6e",
+        "name": "Graphic T-Shirt",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 5117,
+        "created_at": "2024-01-17"
+    },
+    {
+        "id": "08732a51-7a3f-43b9-8b6c-955958a6edfb",
+        "name": "Travel Mug",
+        "description": "Keep your drinks hot or cold on the go.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 1928,
+        "created_at": "2024-07-16"
+    },
+    {
+        "id": "2c74b0fe-7467-48aa-b1d4-b08eef531d05",
+        "name": "Graphic T-Shirt",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 2999,
+        "created_at": "2024-01-20"
+    },
+    {
+        "id": "e71e1085-8f36-4d6a-b0e1-410e3f345f82",
+        "name": "Cool Mug",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 5256,
+        "created_at": "2024-07-06"
+    },
+    {
+        "id": "9d44613d-fe38-4a35-b443-5d753eb4647e",
+        "name": "Graphic T-Shirt",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 3738,
+        "created_at": "2024-03-05"
+    },
+    {
+        "id": "60ba7e08-0167-44db-9146-d88b40495353",
+        "name": "Graphic T-Shirt",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 2191,
+        "created_at": "2024-06-16"
+    },
+    {
+        "id": "405faa75-ac17-412f-8739-2feb6662fd69",
+        "name": "Running Shoes",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 5174,
+        "created_at": "2023-12-08"
+    },
+    {
+        "id": "89954d3a-1bd7-40da-bfe7-b4c3d6edd181",
+        "name": "Cool Mug",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 2367,
+        "created_at": "2024-07-23"
+    },
+    {
+        "id": "4d3fecda-b599-411e-be04-8791d126c88c",
+        "name": "Travel Mug",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 3457,
+        "created_at": "2024-01-06"
+    },
+    {
+        "id": "fa423131-4cba-43d2-baef-0b71beadcde8",
+        "name": "Travel Mug",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 1747,
+        "created_at": "2023-08-29"
+    },
+    {
+        "id": "45fc626e-6858-41ad-ae5e-673bcf48a37b",
+        "name": "Running Shoes",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 4489,
+        "created_at": "2024-03-04"
+    },
+    {
+        "id": "11477f64-c1f2-42e5-92c8-141d337a9e3a",
+        "name": "Cool Mug",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 5564,
+        "created_at": "2023-12-21"
+    },
+    {
+        "id": "41e15d5a-011d-4756-b285-d771b39df646",
+        "name": "Running Shoes",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 2573,
+        "created_at": "2024-03-29"
+    },
+    {
+        "id": "7f22d771-1117-4685-a055-1751501ec7c4",
+        "name": "Casual Sneakers",
+        "description": "Keep your drinks hot or cold on the go.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 1485,
+        "created_at": "2024-01-15"
+    },
+    {
+        "id": "c21da1f7-2da5-4931-aa0b-70c11f63f745",
+        "name": "Vintage T-Shirt",
+        "description": "Keep your drinks hot or cold on the go.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 3766,
+        "created_at": "2024-07-09"
+    },
+    {
+        "id": "67178f75-8f73-4349-843d-680fe2b36c50",
+        "name": "Travel Mug",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 2213,
+        "created_at": "2024-04-25"
+    },
+    {
+        "id": "e9092b01-fb7c-4c71-b23f-abf9a8bf04a2",
+        "name": "Graphic T-Shirt",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 2591,
+        "created_at": "2024-02-04"
+    },
+    {
+        "id": "0c572e9d-2a67-4f7c-bc5b-91fec3e271e3",
+        "name": "Cool Mug",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 4794,
+        "created_at": "2024-06-30"
+    },
+    {
+        "id": "4900f0b6-10dd-4f02-8b2c-2dd208902439",
+        "name": "Graphic T-Shirt",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 5566,
+        "created_at": "2023-11-23"
+    },
+    {
+        "id": "10badeca-cf87-42db-9c89-99edf435187b",
+        "name": "Travel Mug",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 1358,
+        "created_at": "2024-07-11"
+    },
+    {
+        "id": "c5e42fb0-123c-4ce8-9d61-e180c27e4c61",
+        "name": "Travel Mug",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 2378,
+        "created_at": "2023-11-14"
+    },
+    {
+        "id": "b5b63bac-e7ea-4c64-be4e-ba4f5b0a63df",
+        "name": "Running Shoes",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 4864,
+        "created_at": "2023-09-28"
+    },
+    {
+        "id": "72bf18c9-7268-41d9-9e96-bae0efb3e5df",
+        "name": "Graphic T-Shirt",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 1322,
+        "created_at": "2024-06-24"
+    },
+    {
+        "id": "23e084a4-99dc-4bb8-a133-ee1135694ba8",
+        "name": "Running Shoes",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 3741,
+        "created_at": "2024-04-28"
+    },
+    {
+        "id": "24b5ada3-6b16-44b1-8888-ae2987673fe7",
+        "name": "Casual Sneakers",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 5204,
+        "created_at": "2023-10-20"
+    },
+    {
+        "id": "011b0811-249d-4ee4-bda1-f9d6a5d7cd03",
+        "name": "Travel Mug",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 4564,
+        "created_at": "2024-08-18"
+    },
+    {
+        "id": "3d218a33-a06b-4b21-8bc8-efcbffb4058b",
+        "name": "Graphic T-Shirt",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 5133,
+        "created_at": "2023-12-26"
+    },
+    {
+        "id": "9477489d-4b56-49e2-b506-5ab4be13681d",
+        "name": "Running Shoes",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 3955,
+        "created_at": "2024-08-21"
+    },
+    {
+        "id": "1e76bfc3-2ece-4ee3-8f39-afd8ef3f8498",
+        "name": "Travel Mug",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 2683,
+        "created_at": "2023-10-07"
+    },
+    {
+        "id": "21cee737-50f3-4760-acbb-33245a553071",
+        "name": "Vintage T-Shirt",
+        "description": "Keep your drinks hot or cold on the go.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 1567,
+        "created_at": "2023-11-14"
+    },
+    {
+        "id": "93bc837f-d3c8-4e0e-993f-dba102142f30",
+        "name": "Casual Sneakers",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 1562,
+        "created_at": "2023-12-19"
+    },
+    {
+        "id": "ff7351f0-ea25-44a6-a21b-a604e8310d1e",
+        "name": "Travel Mug",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 3069,
+        "created_at": "2024-07-06"
+    },
+    {
+        "id": "9f47a868-5cc2-48c6-8196-94689e7ce45b",
+        "name": "Casual Sneakers",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 3741,
+        "created_at": "2024-05-04"
+    },
+    {
+        "id": "fcdd9bae-7c44-4fd4-88cd-54b1d613ed5c",
+        "name": "Cool Mug",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 4395,
+        "created_at": "2023-10-28"
+    },
+    {
+        "id": "132e2b6f-2fd5-43d3-8876-4183bd125a68",
+        "name": "Travel Mug",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 2350,
+        "created_at": "2024-07-15"
+    },
+    {
+        "id": "91012791-87c2-4a6e-9835-0c19ec55a50c",
+        "name": "Graphic T-Shirt",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 4360,
+        "created_at": "2023-12-29"
+    },
+    {
+        "id": "253644c9-a98c-4bed-946e-afc99452e6db",
+        "name": "Cool Mug",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 1165,
+        "created_at": "2024-04-20"
+    },
+    {
+        "id": "cf57b86c-9d98-475b-871a-0e948b73ccee",
+        "name": "Running Shoes",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 4661,
+        "created_at": "2024-02-21"
+    },
+    {
+        "id": "e6a513a3-3243-4b31-86be-acfa5a7cd9ea",
+        "name": "Graphic T-Shirt",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 2058,
+        "created_at": "2024-02-16"
+    },
+    {
+        "id": "89172107-7163-4610-87f4-decc1d65a310",
+        "name": "Graphic T-Shirt",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 4953,
+        "created_at": "2024-07-04"
+    },
+    {
+        "id": "9dbd547d-bc36-4a13-a2a3-a807e99fcd37",
+        "name": "Graphic T-Shirt",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 5854,
+        "created_at": "2024-08-12"
+    },
+    {
+        "id": "1d3147dc-9f5a-41ec-a137-ba974debf9e5",
+        "name": "Graphic T-Shirt",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 2696,
+        "created_at": "2024-08-11"
+    },
+    {
+        "id": "57a1cd8e-0aba-4880-8c9c-58d005f343c2",
+        "name": "Graphic T-Shirt",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 3137,
+        "created_at": "2024-06-27"
+    },
+    {
+        "id": "aff9dac8-717c-4ebf-bf7b-f05489790db6",
+        "name": "Graphic T-Shirt",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 3076,
+        "created_at": "2024-01-29"
+    },
+    {
+        "id": "2eddd731-f346-4ebc-a8ca-5a0ac5697abb",
+        "name": "Running Shoes",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 2056,
+        "created_at": "2024-05-11"
+    },
+    {
+        "id": "ed4eded5-7491-42dd-8f8e-b9eb7a39ba01",
+        "name": "Graphic T-Shirt",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 5819,
+        "created_at": "2024-03-15"
+    },
+    {
+        "id": "31341fa0-7800-4c0e-87cf-9e32485a03b7",
+        "name": "Cool Mug",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 2871,
+        "created_at": "2023-10-28"
+    },
+    {
+        "id": "b2957b8e-0972-4acd-8cad-815d1a15e5f8",
+        "name": "Cool Mug",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 3613,
+        "created_at": "2023-12-17"
+    },
+    {
+        "id": "25b47a8e-0c56-467e-9edd-1d6cec3a4be6",
+        "name": "Cool Mug",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 3407,
+        "created_at": "2023-10-08"
+    },
+    {
+        "id": "dcc0a567-3870-44b7-93c7-f512da33b36d",
+        "name": "Vintage T-Shirt",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 3168,
+        "created_at": "2024-05-16"
+    },
+    {
+        "id": "4edf88ed-606e-4604-8b15-b7bfe8d9d5a8",
+        "name": "Graphic T-Shirt",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 4037,
+        "created_at": "2023-11-11"
+    },
+    {
+        "id": "f5c6bd49-1b02-4aa3-ae2f-9b601a2a3976",
+        "name": "Cool Mug",
+        "description": "Keep your drinks hot or cold on the go.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 1089,
+        "created_at": "2024-06-27"
+    },
+    {
+        "id": "060fe35e-7f2e-4422-b97f-c203bbb2332c",
+        "name": "Casual Sneakers",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 5855,
+        "created_at": "2023-12-29"
+    },
+    {
+        "id": "ccbf4699-25c3-485e-9c54-970227cde16e",
+        "name": "Graphic T-Shirt",
+        "description": "Keep your drinks hot or cold on the go.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 2036,
+        "created_at": "2024-02-16"
+    },
+    {
+        "id": "a3719deb-ddde-4a28-a022-c9092b667210",
+        "name": "Running Shoes",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 4720,
+        "created_at": "2024-05-31"
+    },
+    {
+        "id": "d44eceae-7867-470a-9312-9ec89f23584e",
+        "name": "Running Shoes",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 2524,
+        "created_at": "2024-04-04"
+    },
+    {
+        "id": "640990bf-7e35-4816-bacc-44d6fc77c3f5",
+        "name": "Cool Mug",
+        "description": "Keep your drinks hot or cold on the go.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 4938,
+        "created_at": "2023-09-12"
+    },
+    {
+        "id": "2b36b6a9-f5b5-4d6b-8d3a-1776a8437af7",
+        "name": "Cool Mug",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 1243,
+        "created_at": "2023-10-29"
+    },
+    {
+        "id": "88eda141-f5ff-4189-aeba-84258c16d3b7",
+        "name": "Casual Sneakers",
+        "description": "Keep your drinks hot or cold on the go.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 3112,
+        "created_at": "2023-12-26"
+    },
+    {
+        "id": "a14d2a83-de71-4018-bae1-a5a3ea0f677d",
+        "name": "Casual Sneakers",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 2371,
+        "created_at": "2023-09-01"
+    },
+    {
+        "id": "f77d1a45-0644-4495-b891-84e7e9ca9522",
+        "name": "Casual Sneakers",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 1650,
+        "created_at": "2024-05-24"
+    },
+    {
+        "id": "329f8fe8-4173-4271-96e8-1a0b71f2fa5c",
+        "name": "Casual Sneakers",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 4538,
+        "created_at": "2023-09-28"
+    },
+    {
+        "id": "bab1d774-74ca-49bb-8ce9-30b64a863e32",
+        "name": "Graphic T-Shirt",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 5685,
+        "created_at": "2024-05-06"
+    },
+    {
+        "id": "59fcfa6d-75a9-4112-93a6-7a5b06a7f75f",
+        "name": "Running Shoes",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 1970,
+        "created_at": "2024-02-29"
+    },
+    {
+        "id": "b7f138a2-65f5-4000-90aa-f45ab0a2ed94",
+        "name": "Travel Mug",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 5173,
+        "created_at": "2024-05-06"
+    },
+    {
+        "id": "963ad920-42c8-4bb5-9cba-17d45fa0e3f9",
+        "name": "Casual Sneakers",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 2193,
+        "created_at": "2024-08-07"
+    },
+    {
+        "id": "5508c84e-d4a2-4464-912f-629565227b6d",
+        "name": "Graphic T-Shirt",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 3435,
+        "created_at": "2024-08-18"
+    },
+    {
+        "id": "8729df94-2bec-438e-8587-d44466e2edde",
+        "name": "Graphic T-Shirt",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 2696,
+        "created_at": "2023-12-11"
+    },
+    {
+        "id": "0e035e99-1e58-4a36-b17e-fa18769037ca",
+        "name": "Travel Mug",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 1593,
+        "created_at": "2023-12-31"
+    },
+    {
+        "id": "3c795318-e3d8-46e4-b1a5-ec06de8dfa80",
+        "name": "Casual Sneakers",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 2371,
+        "created_at": "2024-06-15"
+    },
+    {
+        "id": "dc8c3117-67b1-4804-a3f9-a8ed3f734af1",
+        "name": "Graphic T-Shirt",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 5762,
+        "created_at": "2023-11-05"
+    },
+    {
+        "id": "85a09380-44e8-49c8-9fd5-ab00cca65475",
+        "name": "Graphic T-Shirt",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 2514,
+        "created_at": "2024-04-24"
+    },
+    {
+        "id": "453415c5-36c0-4f0f-8c4c-1ef6dd26c987",
+        "name": "Vintage T-Shirt",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 5652,
+        "created_at": "2024-03-22"
+    },
+    {
+        "id": "3a76f200-5106-472a-a680-4ff45771b27a",
+        "name": "Graphic T-Shirt",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 4414,
+        "created_at": "2023-09-09"
+    },
+    {
+        "id": "b70162be-bef2-4108-b7e3-0039f596e0d9",
+        "name": "Casual Sneakers",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 5587,
+        "created_at": "2024-04-04"
+    },
+    {
+        "id": "89133a21-32dd-4b19-b22b-6f3ea24a2428",
+        "name": "Casual Sneakers",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 1150,
+        "created_at": "2024-05-05"
+    },
+    {
+        "id": "86d6dd44-1774-4e20-b228-ad6b6ef4e6b0",
+        "name": "Travel Mug",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 3957,
+        "created_at": "2024-01-04"
+    },
+    {
+        "id": "f17f5777-23e9-463e-8af3-e0689482cb1d",
+        "name": "Graphic T-Shirt",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 4806,
+        "created_at": "2023-09-27"
+    },
+    {
+        "id": "26fb36db-209c-4540-8e1f-9b98182e0bec",
+        "name": "Vintage T-Shirt",
+        "description": "High-performance running shoes for athletes.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 4222,
+        "created_at": "2024-07-13"
+    },
+    {
+        "id": "7fc1874e-8cf8-4650-9c49-bf891408b875",
+        "name": "Cool Mug",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 2210,
+        "created_at": "2023-11-07"
+    },
+    {
+        "id": "20f183df-390e-494d-87ca-241f8e94ad73",
+        "name": "Cool Mug",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 1743,
+        "created_at": "2023-12-06"
+    },
+    {
+        "id": "28d9aded-a453-4786-8bfa-6d5aa193586b",
+        "name": "Vintage T-Shirt",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 1529,
+        "created_at": "2024-02-15"
+    },
+    {
+        "id": "5c54beb7-fc2d-474f-9cbd-40f72c9cbc49",
+        "name": "Graphic T-Shirt",
+        "description": "Keep your drinks hot or cold on the go.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 1605,
+        "created_at": "2024-07-07"
+    },
+    {
+        "id": "5744cb98-d827-46a6-8540-1a61ef0e93a9",
+        "name": "Graphic T-Shirt",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 3830,
+        "created_at": "2023-11-28"
+    },
+    {
+        "id": "341fe9d7-0b33-4d0e-9d52-42c72762c646",
+        "name": "Cool Mug",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 5676,
+        "created_at": "2023-11-22"
+    },
+    {
+        "id": "1889260e-5045-4944-b709-7aa78d6e6ff5",
+        "name": "Cool Mug",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 1759,
+        "created_at": "2023-12-22"
+    },
+    {
+        "id": "8b684ce9-5aa4-4f8c-9dbf-ca3460e02afa",
+        "name": "Running Shoes",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 2049,
+        "created_at": "2023-09-11"
+    },
+    {
+        "id": "53044903-71eb-44ba-9d82-c5c7d865eab5",
+        "name": "Casual Sneakers",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 3562,
+        "created_at": "2024-07-29"
+    },
+    {
+        "id": "e69543f0-a09f-4e1f-b920-00986e797c3f",
+        "name": "Casual Sneakers",
+        "description": "Keep your drinks hot or cold on the go.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "t-shirts",
+        "price_in_cents": 4580,
+        "created_at": "2024-01-18"
+    },
+    {
+        "id": "14f9e3ea-cd6c-4fdb-aac7-5b97e988c91d",
+        "name": "Running Shoes",
+        "description": "Keep your drinks hot or cold on the go.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 4231,
+        "created_at": "2024-04-07"
+    },
+    {
+        "id": "54241ca0-4410-4252-a00c-950d4c39fa59",
+        "name": "Casual Sneakers",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 2627,
+        "created_at": "2024-06-09"
+    },
+    {
+        "id": "ed1fc66a-cfd8-47e4-80c9-3da220695a53",
+        "name": "Cool Mug",
+        "description": "Comfortable t-shirt with a cool design.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 1335,
+        "created_at": "2023-10-18"
+    },
+    {
+        "id": "2c0afd31-c428-42a2-ab32-1d82208bb9e5",
+        "name": "Vintage T-Shirt",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 3987,
+        "created_at": "2024-05-13"
+    },
+    {
+        "id": "7e637c35-440c-4dcc-98a8-9633c804078d",
+        "name": "Running Shoes",
+        "description": "Retro style t-shirt with a vintage print.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "shoes",
+        "price_in_cents": 2056,
+        "created_at": "2024-07-30"
+    },
+    {
+        "id": "21261cf5-bce0-4eeb-9986-436a3f5d84e0",
+        "name": "Graphic T-Shirt",
+        "description": "Comfortable sneakers for everyday wear.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 1704,
+        "created_at": "2024-06-08"
+    },
+    {
+        "id": "4dc42415-47b9-4301-80f7-9375dd6560e3",
+        "name": "Cool Mug",
+        "description": "A stylish mug for your coffee.",
+        "image_url": "https://via.placeholder.com/150",
+        "category": "mugs",
+        "price_in_cents": 2761,
+        "created_at": "2023-09-24"
+    }
+]
