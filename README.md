@@ -1,4 +1,8 @@
-# React + TypeScript + Vite
+# Lojitazinha
+
+Uma loja fake de produtos fakes apenas para aprender desenvolvimento front-end com as novas ferramentas do mercado
+
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
